@@ -39,3 +39,4 @@ Nov 4, 2015
 - you can ignore files in .gitignore and core.excludesfile  -- but once the file has atleast been added/committed once, it would not be ignored.  
 - Great visualization tool: http://pcottle.github.io/learnGitBranching/?NODEMO
 - list of various .gitignore files: https://github.com/github/gitignore
+- course page: https://training.github.com/kit/advanced/
