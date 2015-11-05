@@ -34,6 +34,7 @@ Nov 4, 2015
 - `git branch -vv` shows all the branches and if they have remotes
 - `git cat-file -p bc4152` decompresses a .git/object file
 - `git pull --rebase`
+- `git add -A && git commit -m 'init'` add all files and commit
 
 #### Tips
 - you can ignore files in .gitignore and core.excludesfile  -- but once the file has atleast been added/committed once, it would not be ignored.  
